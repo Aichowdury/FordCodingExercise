@@ -1,0 +1,4 @@
+D:\Users\Abidul\Documents\Visual Studio 2019\Projects\MustangBroncoGUI\Debug\MustangBroncoGUI.vcxprojAssemblyReference.cache
+D:\Users\Abidul\Documents\Visual Studio 2019\Projects\MustangBroncoGUI\Debug\MustangBroncoGUI.exe
+D:\Users\Abidul\Documents\Visual Studio 2019\Projects\MustangBroncoGUI\Debug\MustangBroncoGUI.MyForm.resources
+D:\Users\Abidul\Documents\Visual Studio 2019\Projects\MustangBroncoGUI\Debug\MustangBroncoGUI.vcxproj.GenerateResource.cache
