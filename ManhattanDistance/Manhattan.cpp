@@ -70,7 +70,7 @@ void callManhattan (Point* a, Point* b, int range, int testCase)
 
 int main ()
 {
-	//Randam number genarator set to time
+	//Random number genarator set to time
 	srand(time(0));
 	
 	//range of data to test
